@@ -5,3 +5,5 @@ evaluate(new File(                                                      // new
         settingsDir.parentFile,                                               // new
         'my_flutter/.android/include_flutter.groovy'                          // new
 ))                                                                      // new
+
+// https://stackoverflow.com/questions/54913945/problem-to-use-setbinding-to-import-a-library-on-settings-gradle-of-android-proj
